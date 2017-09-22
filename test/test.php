@@ -10,9 +10,9 @@ require_once '../vendor/autoload.php';
 
 use Fnf1993\AipSpeech\AipSpeech;
 
-$app_id = '6531724';
-$api_key = 'rwaPII9WrRoF8xoGuGSCpyNZ';
-$secret_key = 'b19fa1f1b8b7da8d8fe397cce89099f1';
+$app_id = 'xxxx';
+$api_key = 'XXXX';
+$secret_key = 'xxxx';
 
 $aipSpeech = new AipSpeech($app_id, $api_key, $secret_key);
 $path = "E:/WorkSpace/Laravel/silk-v3-decoder/0.wav";
