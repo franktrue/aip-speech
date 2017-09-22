@@ -8,7 +8,7 @@
 
 require_once '../vendor/autoload.php';
 
-use fnf_1993\AipSpeech\AipSpeech;
+use Fnf1993\AipSpeech\AipSpeech;
 
 $app_id = '6531724';
 $api_key = 'rwaPII9WrRoF8xoGuGSCpyNZ';
